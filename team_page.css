@@ -1,8 +1,7 @@
 body {
     text-align:center;
     background-color:darkslategrey;
-    font-family: 'Sacramento', cursive;
-    background-image: url('bg.jpg');
+    background-color: green;
     background-size: cover;
 }
 
