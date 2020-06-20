@@ -37,8 +37,8 @@ h1 {
 }
 #about {
     border-bottom: 10px dashed black;
-    margin:auto;
-    border-radius: 1px;
+    margin:5px;
+    margin-bottom:auto;
 }
 div {
     margin:auto;
@@ -47,10 +47,12 @@ div {
     width:auto;
     padding:55px;
     margin-bottom:20px;
+    border:.25px solid black;
 }
 #main_div {
     background-color:transparent;
     border-radius: 1px;
+    border:none;
 
 }
 h2 {
