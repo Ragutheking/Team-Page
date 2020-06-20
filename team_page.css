@@ -20,12 +20,12 @@ h3 {
     border-radius: 10px;
     padding: 55px
 }
-*/
+
 h1 {
     font-weight: normal;
     font-size: 80px;
 }
-
+*/
 #main_title {
     font-size: 100px;
     border: 3px dashed red;
@@ -45,6 +45,7 @@ div {
     border-radius:5px;
     width:auto;
     padding:55px;
+    margin-bottom:20px;
 }
 #main_div {
     background-color:transparent;
