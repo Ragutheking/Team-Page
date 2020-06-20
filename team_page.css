@@ -54,6 +54,8 @@ div {
 }
 h2 {
     margin:auto;
-    border-bottom: 1px solid darkslategray;
+    border-bottom: 3px solid darkslategray;
+    text-shadow: 1px 1px black;
+    background-color:#00ffaf;
 }
 
