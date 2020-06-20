@@ -33,11 +33,12 @@ h1 {
     padding: 25px;
     background-color:navy;
     border-radius: 10px;
-    text-shadow: 2px 2px green;
+    text-shadow: 2px 2px rgb(1, 0, 73);
 }
 #about {
     border-bottom: 10px dashed black;
     margin:auto;
+    border-radius: 1px;
 }
 div {
     margin:auto;
@@ -57,5 +58,6 @@ h2 {
     border-bottom: 3px solid darkslategray;
     text-shadow: 1px 1px black;
     background-color:#00ffaf;
+    border-radius:2px;
 }
 
