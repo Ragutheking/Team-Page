@@ -28,7 +28,7 @@ h1 {
 */
 #main_title {
     font-size: 100px;
-    border: 3px dashed red;
+    border: 3px dashed black;
     margin: auto;
     padding: 25px;
     background-color:navy;
@@ -52,3 +52,8 @@ div {
     border-radius: 1px;
 
 }
+h2 {
+    margin:auto;
+    border-bottom: 1px solid darkslategray;
+}
+
