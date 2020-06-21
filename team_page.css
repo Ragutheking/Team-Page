@@ -1,7 +1,6 @@
 body {
     text-align:center;
     background-color:darkslategrey;
-    background-color: green;
     background-size: cover;
 }
 
@@ -60,13 +59,15 @@ h2 {
     border-bottom: 3px solid darkslategray;
     text-shadow: 1px 1px black;
     background-color:#00ffaf;
-    border-radius:2px;
+    border-radius:20px;
     font-size:55px;
 }
 h3 {
     font-size :35px;
+    border-radius: 30px;
 }
 h1{
     font-size:80px;
+    border-radius: 50px;
 }
 
