@@ -38,6 +38,7 @@ h1 {
     border-bottom: 10px dashed black;
     margin:5px;
     margin-bottom:auto;
+    border-radius:0px;
 }
 div {
     margin:auto;
@@ -70,4 +71,7 @@ h1{
     font-size:80px;
     border-radius:50px;
 }
-
+#creators{
+    margin:auto;
+    background-color:gray;
+}
