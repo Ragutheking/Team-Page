@@ -88,7 +88,12 @@ p{
     color:lightgray;
     font-size:3px;
 }
-#splitthree{
+.splitthree{
     width:33.3333333%;
     margin:auto;
+    padding:none;
+    border-radius:0px;
+    background-color:transparent;
+    border:none;
+    position:relative;
 }
