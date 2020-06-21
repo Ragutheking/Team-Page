@@ -3,7 +3,79 @@ body {
     background-color:gray;
     background-size: cover;
 }
+p{ 
+    color:white;  
+}
+h2 {
+    margin:auto;
+    border-bottom: 3px solid darkslategray;
+    text-shadow: 1px 1px black;
+    background-color:#00ffaf;
+    border-radius:20px;
+    font-size:55px;
+}
+h3 {
+    font-size :35px;
+    border-radius:30px;
+}
+h1{
+    font-size:80px;
+    border-radius:50px;
+}
+div {
+    margin:auto;
+    background-color:cyan;
+    border-radius:5px;
+    width:auto;
+    padding:55px;
+    margin-bottom:20px;
+    border:.25px solid black;
+}
+#main_title {
+    font-size: 100px;
+    border: 3px dashed black;
+    margin: auto;
+    padding: 25px;
+    background-color:navy;
+    border-radius: 10px;
+    text-shadow: 2px 2px rgb(1, 0, 73);
+}
+#about {
+    border-bottom: 10px dashed black;
+    margin:5px;
+    margin-bottom:auto;
+    border-radius:0px;
+}
+#main_div {
+    background-color:transparent;
+    border-radius: 1px;
+    border:none;
 
+}
+#creators{
+    margin:auto;
+    background-color:darkgray;
+    padding-left:0px;
+    padding-right:0px;
+    border-radius:0px;
+    width:auto;
+    border:2px dotted gray;
+
+    
+}
+#littly{
+    color:lightgray;
+    font-size:3px;
+}
+.splitthree{
+    width:33.3333333%;
+    margin:auto;
+    padding:0px;
+    border-radius:0px;
+    background-color:transparent;
+    border:none;
+    position:relative;
+}
 /*h2 {
     margin:auto;
     margin-top: 100px;
@@ -25,77 +97,4 @@ h1 {
     font-size: 80px;
 }
 */
-#main_title {
-    font-size: 100px;
-    border: 3px dashed black;
-    margin: auto;
-    padding: 25px;
-    background-color:navy;
-    border-radius: 10px;
-    text-shadow: 2px 2px rgb(1, 0, 73);
-}
-#about {
-    border-bottom: 10px dashed black;
-    margin:5px;
-    margin-bottom:auto;
-    border-radius:0px;
-}
-div {
-    margin:auto;
-    background-color:cyan;
-    border-radius:5px;
-    width:auto;
-    padding:55px;
-    margin-bottom:20px;
-    border:.25px solid black;
-}
-#main_div {
-    background-color:transparent;
-    border-radius: 1px;
-    border:none;
 
-}
-h2 {
-    margin:auto;
-    border-bottom: 3px solid darkslategray;
-    text-shadow: 1px 1px black;
-    background-color:#00ffaf;
-    border-radius:20px;
-    font-size:55px;
-}
-h3 {
-    font-size :35px;
-    border-radius:30px;
-}
-h1{
-    font-size:80px;
-    border-radius:50px;
-}
-#creators{
-    margin:auto;
-    background-color:darkgray;
-    padding-left:0px;
-    padding-right:0px;
-    border-radius:0px;
-    width:auto;
-    border:2px dotted darkgray;
-
-    
-}
-p{ 
-    color:white;
-
-}
-#littly{
-    color:lightgray;
-    font-size:3px;
-}
-.splitthree{
-    width:33.3333333%;
-    margin:auto;
-    padding:none;
-    border-radius:0px;
-    background-color:transparent;
-    border:none;
-    position:relative;
-}
