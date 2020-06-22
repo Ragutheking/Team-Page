@@ -69,7 +69,10 @@ div {
 }
 #Website{
     color:lightgray;
-    
+    width: 33.33%;
+    border:transparent;
+    background-color:lightcyan;
+    margin:auto;
 
 
 
