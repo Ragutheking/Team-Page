@@ -67,14 +67,17 @@ div {
     color:lightgray;
     font-size:3px;
 }
+#evensmaller{
+    color:lightgray;
+    font-size:2px;
+}
 #Website{
     color:lightgray;
     margin:auto;
     border:none;
     background-color:lightcyan;
-
-
-
+    padding:10px;
+    
 }
 .splitthree{
     width:33.3333333%;
