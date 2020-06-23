@@ -77,7 +77,8 @@ div {
     border:none;
     background-color:lightcyan;
     padding:10px;
-    
+    position:absolute;
+
 }
 .splitthree{
     width:33.3333333%;
